@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Facebook",
+        "logo_url": "https://cdn-icons-png.flaticon.com/512/124/124010.png",
+        "id_url": "https://web.facebook.com/Hridoy3240"
+    },
+    {
+        "name": "LinkedIn",
+        "logo_url": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+        "id_url": "https://www.linkedin.com/in/md-hridoy-sheikh-b16b01298"
+    },
+    {
+        "name": "YouTube",
+        "logo_url": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+        "id_url": "https://www.youtube.com/@Hridoy-qb3uf"
+    },
+    {
+        "name": "X",
+        "logo_url": "https://cdn-icons-png.flaticon.com/512/5968/5968849.png",
+        "id_url": "https://x.com/nai"
+    }
+]
